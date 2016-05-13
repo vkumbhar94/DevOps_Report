@@ -1,0 +1,9 @@
+*.dvf
+
+*.lof
+*.bbl
+*.aux
+*.log
+*.blg
+*.synctex.gz
+*.toc
